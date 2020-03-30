@@ -1,9 +1,9 @@
 ---
-templateKey: 'product-page'
+heading: Great coffee with a conscience
 path: /products
+templateKey: product-page
 title: Our Coffee
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -91,11 +91,4 @@ pricing:
         - Up to 4 different varieties of beans
       plan: Big
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
 ---
